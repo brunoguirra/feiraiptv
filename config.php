@@ -41,6 +41,17 @@ $site_nconta2="35745-6";
 // Tipo - Poupança ou Corrente
 $site_tipo_conta2="corrente";
 
+// Conta Bancária 3
+// Banco:
+$site_bank2="MERCADO PAGO";
+// BOLETO PLANO BASICO
+$site_agencia2="3128-3";
+// BOLETO PLANO ESPORTE
+$site_nconta2="35745-6";
+// Tipo - Poupança ou Corrente
+$site_tipo_conta2="corrente";
+
+
 // Outros Métodos de Pagamento
 // Email MercadoPago:
 $site_neteller="emanuellemcarvalho@hotmail.com";
