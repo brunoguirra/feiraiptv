@@ -46,20 +46,24 @@ $site_tipo_conta2="corrente";
 $site_neteller="emanuellemcarvalho@hotmail.com";
 // Chave PIX:
 $site_contasuper="05749499502";
+// Chave PIX Email:
+$site_contasuper="emanuellemcarvalho@gmail.com";
+// Conta PicPay:
+$site_contasuper="emanuellemcarvalho@gmail.com";
 // Email Paypal:
-$site_paypal="breve";
+$site_paypal="hbimpressos@gmail.com";
 
 // --------------------- Configuração do Marketing do Sistema
 
 // Limite de ganhos no sistema, em relação ao valor investido, não inclui ganhos com formação de equipe, apenas ganhos com bônus divisão de lucro
 // valor em %, insira apenas números
-//$limite_ganhos="150";
+//$limite_ganhos="0";
 
 // limite de pacotes que um usuário pode comprar
 $packs_limite="3";
 
 // Valor mínimo para solicitar saque:
-$saque_minimo="50";
+$saque_minimo="30";
 // Valor da taxa de saque em % - será descontado do valor do saque, exemplo: o usuário tem R$500,00, solicitaa o saque, e recebrá R$450,00 se a taxa for de 10%
 $taxa_saque="3";
 
@@ -73,7 +77,7 @@ $lider_minimo="999";
 
 // ABAIXO CONFIGURA AS BONIFICAÇÕES, PARA NÃO DAR BÔNUS EM UM NÍVEL, COLOQUE O NÚMERO zero
 // Comissão por downline direto = 1º nível / em %
-$bonus_nv1="20";
+$bonus_nv1="25";
 
 // Comissão por downline indireto no 2º nível / em %
 $bonus_nv2="10";
@@ -82,10 +86,10 @@ $bonus_nv2="10";
 $bonus_nv3="5";
 
 // Comissão por downline indireto no 4º nível / em %
-$bonus_nv4="2";
+$bonus_nv4="3";
 
 // Comissão por downline indireto no 5º nível / em %
-$bonus_nv5="1";
+$bonus_nv5="2";
 
 
 ?>
