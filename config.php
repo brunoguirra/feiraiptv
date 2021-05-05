@@ -46,10 +46,6 @@ $site_tipo_conta2="corrente";
 $site_neteller="emanuellemcarvalho@hotmail.com";
 // Chave PIX:
 $site_contasuper="05749499502";
-// Chave PIX Email:
-$site_contasuper="emanuellemcarvalho@gmail.com";
-// Conta PicPay:
-$site_contasuper="emanuellemcarvalho@gmail.com";
 // Email Paypal:
 $site_paypal="hbimpressos@gmail.com";
 
