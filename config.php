@@ -8,7 +8,7 @@
 // ----------------- Dados do Site:
 
 // # Nome do site:
-$site_name="FEIRA IPTV";
+$site_name="FEIRA IPTV TESTE";
 
 // # URL do site:
 $site_url="https://feiraiptv.xyz/"; // <<< não esqueça da / no final da URL! Se você instalar na raiz do site, use apenas https://seudominio.com.br/
