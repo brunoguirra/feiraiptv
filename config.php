@@ -8,10 +8,10 @@
 // ----------------- Dados do Site:
 
 // # Nome do site:
-$site_name="Minha TV Digital;
+$site_name="Minha TV Digital";
 
 // # URL do site:
-$site_url="https://minhatvdigital.online"; // <<< não esqueça da / no final da URL! Se você instalar na raiz do site, use apenas https://seudominio.com.br/
+$site_url="https://minhatvdigital.online/"; // <<< não esqueça da / no final da URL! Se você instalar na raiz do site, use apenas https://seudominio.com.br/
 
 // # Email do Suporte:
 $email_suporte="contato@minhatvdigital.com.br";
